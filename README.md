@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently a first year student in GTB4CEC Universtity and pursuing Bachelors in Technology in Computer Science.
+- 🌱 I’m currently a second year student in GTB4CEC Universtity and pursuing Bachelors in Technology in Computer Science.
 - I am currently learning
     - Python
     - C
