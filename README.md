@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-- 🌱 I’m currently a second year student in GTB4CEC Universtity and pursuing Bachelors in Technology in Computer Science.
+- 🌱 I’m currently a fouth year student in GTB4CEC Universtity and pursuing Bachelors in Technology in Computer Science.
 - I am currently learning
     - Python
-    - C
 - I am intersted in the world of Web Technologies and am on a journey to explore and learn it.
+- Results-driven Computer Science undergraduate specializing in AI & ML with practical experience in business & data analytics. Proven track record of optimizing 
+organizational workflows and developing interactive dashboards at major organizations like DRDO and Wipro. Proficient in Python, SQL, and Power BI, with a 
+strong foundation in database management and automation
 <!--
 **Lakshitaji/lakshitaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
